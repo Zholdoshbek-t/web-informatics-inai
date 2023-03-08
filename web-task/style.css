@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+html {
+    overflow-x: hidden;
+}
+.background-img{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.wrapper-main {
+    margin: 430px 0 0 0;
+    text-align: center;
+}
