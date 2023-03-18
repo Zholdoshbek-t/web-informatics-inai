@@ -1,0 +1,98 @@
+.first{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+   
+}
+
+*{
+   color: #2E5499;
+   margin-top: 1rem;
+   
+}
+
+
+
+.lans a{
+   text-decoration: none;
+   color: #2E5499;
+}
+
+.lans{
+   display: flex;
+   justify-content: space-between;
+}
+.header{
+   margin-top: 28px;
+
+}
+
+.nubex {
+   background-color: #2E5499; 
+   border: none;
+   color: white;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+}
+
+p {
+   font-size: 40px;
+   color: #2E5499;
+ }
+ 
+.container{
+   width: 1200px;
+   
+}
+
+
+.col4{
+   width: 15px;
+   justify-content: space-between;
+   display: flex;
+   margin-top: 107px;
+
+} 
+
+i {
+   border: solid black;
+   border-width: 0 3px 3px 0;
+   display: inline-block;
+   padding: 3px;
+}
+
+.right {
+   transform: rotate(-45deg);
+   -webkit-transform: rotate(-45deg);
+}
+
+/*service*/
+.service{
+   text-align: center;
+   color: #2E5499;
+   align-items: center;
+}
+
+.cards{	
+   display: flex;
+   justify-content: space-between;
+
+
+}
+.card img{
+   margin-top: 50px;
+   margin-left: 50px;
+   width: 200px;
+   height: 200px;
+}
+.InformationSystem{
+   text-align: center;
+}
+
+.InformationSystemCards{
+   display: flex;
+}
